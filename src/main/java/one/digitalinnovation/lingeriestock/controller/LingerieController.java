@@ -22,7 +22,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import javax.validation.Valid;
 import java.util.List;
-import java.util.Optional;
 
 @RestController // Indica que é uma classe controladora voltada para API REST(somente troca de dados, sem visuaização ou parte gráfica)
 @RequestMapping("/api/v1/lingeries")

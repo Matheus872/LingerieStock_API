@@ -11,8 +11,8 @@
 	<groupId>one.digitalinnovation</groupId>
 	<artifactId>beerstock</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>beerstock</name>
-	<description>Beer stock project for testing live coding</description>
+	<name>lingeriestock</name>
+	<description>lingerie stock project for training java</description>
 
 	<properties>
 		<java.version>14</java.version>
